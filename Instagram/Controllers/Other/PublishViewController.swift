@@ -1,19 +1,18 @@
 //
-//  ViewController.swift
+//  PublishViewController.swift
 //  Instagram
 //
-//  Created by Ankush Walia on 16/04/23.
+//  Created by Ankush Walia on 20/04/23.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class PublishViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
 
-
 }
-
